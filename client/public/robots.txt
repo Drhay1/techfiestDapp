@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /
+Disallow: /adashboard
+Disallow: /cdashboard
+Disallow: /dashboard
+Disallow: /cdetail/*
+Disallow: /admin/hacks/*
+Disallow: /atransactions
+Disallow: /history
+Disallow: /aevents
+Disallow: /arequests
+Disallow: /settings
+Disallow: /ctransactions
+Disallow: /create-hackathon
+Disallow: /aeventdetail
+
+
+

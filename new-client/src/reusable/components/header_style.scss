@@ -1,0 +1,8 @@
+.header_style {
+  right: -100%;
+  transition: right 0.4s ease;
+
+  &.show {
+    right: 0;
+  }
+}
